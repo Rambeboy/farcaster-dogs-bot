@@ -29,7 +29,7 @@ An automated bot for Farcaster Dog that handles daily tasks and main tasks for m
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Rambeboy/farcaster-dogs-bot.git cd farcaster-dogs-bot
+git clone https://github.com/Rambeboy/farcaster-dogs-bot.git && cd farcaster-dogs-bot
 ```
 
 2. Install dependencies:
