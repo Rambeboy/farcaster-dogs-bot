@@ -20,7 +20,7 @@ An automated bot for Farcaster Dog that handles daily tasks and main tasks for m
 
 - Node.js v16 or higher
 - NPM or Yarn package manager
-- Active FarcasterDog account [Register Here](https://farcasterdog.xyz)
+- Active FarcasterDog account [Register](https://farcasterdog.xyz)
 
 ---
 
@@ -29,7 +29,7 @@ An automated bot for Farcaster Dog that handles daily tasks and main tasks for m
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Rambeboy/farcaster-dogs-bot.git cd FarcasterDog-BOT
+git clone https://github.com/Rambeboy/farcaster-dogs-bot.git cd farcaster-dogs-bot
 ```
 
 2. Install dependencies:
