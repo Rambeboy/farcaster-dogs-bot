@@ -1,6 +1,6 @@
 ## FARCASTER DOGS BOT
 
-An automated bot for FarcasterDog that handles daily tasks and main tasks for multiple accounts.
+An automated bot for Farcaster Dog that handles daily tasks and main tasks for multiple accounts.
 
 ---
 
